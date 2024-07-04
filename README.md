@@ -6,7 +6,7 @@ The purpose of this project is to develop a food delivery app using the MERN (Mo
 - HTML5
 - CSS3
 - JavaScript
-- ReactJS.
+- ReactJS
 - NodeJS
 - ExpressJS
 - MongoDB
